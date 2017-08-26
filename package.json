@@ -1,0 +1,14 @@
+{
+  "name": "markov_test",
+  "version": "0.0.1",
+  "description": "testing markov chains",
+  "main": "markov.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean May",
+  "license": "MIT",
+  "dependencies": {
+    "markov-strings": "^1.3.3"
+  }
+}
